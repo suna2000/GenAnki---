@@ -1,3 +1,6 @@
+二开！
+
+
 # genanki: A Library for Generating Anki Decks
 
 `genanki` allows you to programatically generate decks in Python 3 for Anki, a popular spaced-repetition flashcard
